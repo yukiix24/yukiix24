@@ -1,4 +1,11 @@
- ola me chamo cibeli
+✋ ola me chamo cibeli
+🖼️ estou aprendendo programação (JavaScript)
+✍️ ultilizo esse espaço para compartilhar meus projetos
 
-estou aprendendo programação (JavaScript)
-ultili
+ um pouco sobre mim 
+
+sou uma pessoa muito feliz
+gosto de escutar musica
+rir com amigos 
+gosto de sair
+jogar jogos 
